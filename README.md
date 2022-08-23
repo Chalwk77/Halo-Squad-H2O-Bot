@@ -15,5 +15,5 @@ A Discord bot framework built using the Discordia API and Luvit runtime environm
 
 ---
 PROGRESS:
-![alt text](https://progress-bar.dev/95/?title=In+Development)
+![alt text](https://progress-bar.dev/100/?title=In+Development)
 ---
